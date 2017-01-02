@@ -1,0 +1,1 @@
+node $HOME/tools/js_beautifier.js $1
